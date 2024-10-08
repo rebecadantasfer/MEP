@@ -1,0 +1,157 @@
+---
+title: "Microempreendedor individual (MEP)"
+output: html_document
+date: "07-10-2024"
+---
+
+## **Microempreendedor Profissional (MEP) PLP 55/2022**
+
+> ### Sumário
+>
+> ##### [Tramitação](#tramitação-1)
+>
+> ##### [Próximos passos](#próximos-passos-1)
+>
+> ##### [Perfil dos parlamentares](#perfil-dos-parlamentares-2)
+>
+> ##### [Anexos](#anexos-1) {#anexos}
+
+## Tramitação {#tramitação-1}
+
+Há alguns projetos que tramitam na Câmara dos Deputados que tem como objetivo a alteração da Lei Complementar 123/2006, que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, com o objetivo de incluir empresas ou prestadores de serviços de determinadas áreas no Simples nacional ou com disposições equivalentes aos dos Microempreendedores individuais (MEI), entre eles, o [PLP 55/2022], de autoria da deputada [Erika Koray] (PT/DF).
+
+> ###### **Sobre o PL**
+>
+> ###### O projeto de lei foi apresentado numa parceria do CAU/BR e do colegiado das entidades nacionais de arquitetos e urbanistas (CEAU) com a deputada Erika Kokay
+>
+> ###### Tal PL determina que profissionais com atividades do setor de serviços que tenham por finalidade a prestação de serviços decorrentes do exercício de atividade intelectual, de natureza técnica, científica, desportiva, artística ou cultural, que constitua profissão regulamentada ou não, poderão se enquadrar como Microempreendedor Profissional (MEP).
+>
+> ###### Com o enquadramento como MEP, será possível ao profissional obter uma carga tributária menor e mais simplificada que a disponibilizada no regime tributário do Simples ou no regime do lucro presumido, promovendo justiça tributária.
+>
+> ###### Nos termos propostos, a formalização do profissional como MEP facilitará o registro pelos profissionais em início de carreira, evitando os prejuízos pessoais e a terceiros decorrentes da informalidade.
+>
+> ###### CONTEXTO: Hoje, prestadores de serviços, podem pagar até 15,5% sobre a receita bruta.
+
+Quando o PLP 55/2022 foi apresentado, já tramitavam na Câmara dos Deputados alguns projetos sobre o assunto. Por essa razão o PL foi apensado ao [PLP 30/2021], iniciado no Senado Federal.
+
+> ###### Se uma proposição é apresentada, mas já há alguma que trate sobre a mesma matéria, ela é apensada à mais antiga, para que possam tramitar juntas.
+
+O PLP 30/2021 tramitou no Senado Federal com regime de urgência, por isso, ao chegar na Câmara dos Deputados, ele e os apensados, seguem no mesmo regime de tramitação. Isso quer dizer que as proposições estão sendo analisadas por mais de uma comissão ao mesmo tempo.
+
+![](resumo%20informativo%20MEP%20PLP%20552022.png)
+
+Na Comissão de Constituição, Justiça e Cidadania, o Deputado Dr. Victor Linhalis (PODE/ES) foi designado, em maio de 2023, todavia ainda ele apresentou parecer e deixou de ser membro da comissão. Por isso, deve ser indicado um novo relator para a matéria.
+
+Em dezembro de 2023, o [Deputado [Abilio Brunini] (PL/MT)]{.underline} apresentou parecer na Comissão de Finanças e Tributação pela [aprovação]{.underline} dos PLs 30/2021, 55/2022 e outro. Para adequar a redação, apresentou um texto substitutivo que contemplasse os três PLs.
+
+Em abril de 2024, a [Consultoria de Orçamento e Fiscalização Financeira da Câmara dos Deputados]{.underline} apresentou um informativo de que tanto o PLP nº 30/2021, quanto todos os PLPs a ele apensados, bem como o Substitutivo apresentado pelo relator apresentam [incompatibilidade e inadequação orçamentária e financeira]{.underline}:
+
+> ###### “Tanto o PLP nº 30/2021, quanto o substitutivo do Relator, descumprem o art. 14 da LRF. O Art 7º do Substitutivo reconhece isso e condiciona a entrada em vigor após o Poder Executivo estabelecer uma compensação para as renúncias de receitas promovidas pela proposição.
+>
+> ###### Todavia, o art. 113 do Ato das Disposições Constitucionais Transitórias (ADCT) reforçou o controle sobre alterações legislativas geradoras de impacto orçamentário, ao estabelecer que a proposição legislativa que crie ou altere despesa obrigatória ou renúncia de receita deverá ser acompanhada da estimativa do seu impacto orçamentário e financeiro.
+>
+> ###### Na mesma linha, o § 4º, do art. 132 da LDO 2024 estabelece que, para fins de atendimento ao disposto no art. 14 LRF, as medidas para compensar a renúncia de receita ou o aumento de despesa obrigatória de caráter continuado devem integrar a proposição legislativa ou o ato infralegal, com indicação expressa no texto, na exposição de motivos ou no documento que os fundamentarem.”
+
+Se apresentado novo parecer na Comissão de Finanças e Tributação pela aprovação e parecer pela aprovação na Comissão de Constituição, Justiça e de Cidadania, que irá ver se o texto é compatível com a Constituição Federal, o PL seguirá para o Plenário da Câmara, seguindo para o Senado Federal e então para sanção presidencial.
+
+![](Câmara%20dos%20Deputados.png)
+
+## Próximos passos {#próximos-passos-1}
+
+O CAU/BR pode:
+
+Estabelecer parceria com algum parlamentar membro da [Comissão de Finanças e Tributação] para apresentar parecer indicando o impacto financeiro bem como as medidas para compensar a renúncia de receita;
+
+Pedir ao Presidente da Comissão, Mário Negromonte Jr.(PP/BA), ou ao Vice-Presidente, Vermelho (PL/PR), que designe parlamentar como relator e que, posteriormente, coloque coloque o parecer na pauta para debate.
+
+Estabelecer parceria com deputado membro da [Comissão de Constituição, Justiça e de Cidadania] para apresentação de parecer;
+
+Pedir à Presidente da Comissão, Caroline de Toni(PL/SC), ou ào Vice-Presidente, Chris Tonietto(PL/RJ), que designe parlamentar como relator e que, posteriormente, coloque coloque o parecer na pauta para debate.
+
+## Perfil dos parlamentares {#perfil-dos-parlamentares-2}
+
+### Erika Koray
+
+![](erika%20kokay.jfif){width="237"}
+
+-   Atividade parlamentar (Câmara dos Deputados): 2011- atual;
+
+-   Profissão: bancária;
+
+-   Envolvida com o movimento sindicalista;
+
+-   Membro das frentes parlamentares mistas de Apoio à Habitação de Interesse Social, Regularização Fundiária, Urbanização e Saneamento para Favelas e Assentamentos Precários, em Apoio à Regularização Fundiária, Desenvolvimento Habitacional e Desenvolvimento Urbano Sustentável - FPDUS e em Defesa do Saneamento Básico;
+
+-   Comissões em que é titular: Comissão de Defesa dos Direitos das Pessoas com Deficiência e Comissão de Direitos Humanos, Minorias e Igualdade Racial.
+
+-   Comissões em que é suplente: Comissão de Trabalho, Comissão de Cultura; Comissão de Previdência, Assistência Social, Infância, Adolescência e Família; Comissão de Administração e Serviço Público; Comissão de Legislação Participativa; Comissão de Defesa dos Direitos da Mulher.
+
+[Voltar à leitura](#histórico-1)
+
+### Abilio Brunini
+
+![](220593.jpg){width="237" height="180"}
+
+-   Atividade parlamentar (Câmara dos Deputados): 2023- atual;
+
+-   Profissão: arquiteto e urbanista;
+
+-   Apesar de se alinhar a grupos liberais, tem parecer favorável ao CAU, não se opondo à regulação como outros parlamentares do grupo fazem;
+
+-   Comissões em que é titular:Comissão Externa para acompanhar a investigação da crise dos Yanomami
+
+-   Comissões em que é suplente:Comissão de Defesa dos Direitos das Pessoas com Deficiência; Comissão de Viação e Transportes; Comissão de Comunicação;Comissão de Ciência, Tecnologia e Inovação; Comissão de Desenvolvimento Urbano; Comissão de Finanças e Tributação; Comissão de Cultura; Comissão de Trabalho.
+
+[Voltar à leitura](#tramitação-1)
+
+## Anexos {#anexos-1}
+
+### PLP 55/2022
+
+Art. 1º A Lei Complementar nº 123, de 14 de dezembro de 2006, passa a vigorar com a seguinte redação:
+
+“Art. 18-G. O Microempreendedor Profissional - MEP poderá optar por sistemática simplificada de recolhimento de impostos e contribuições, autorizado aos profissionais com atividades do setor de serviços que tenham por finalidade a prestação de serviços decorrentes do exercício de atividade intelectual, de natureza técnica, científica, desportiva, artística ou cultural, que constitua profissão regulamentada ou não, desde que:
+
+I – tenha auferido receita bruta, no ano-calendário anterior, de até R\$ 240.000,00 (duzentos e quarenta mil reais), ou de até R\$ 20.000,00 (vinte mil reais) médio por mês, no caso de início de atividades ao longo do respectivo ano-calendário; e
+
+II – contrate até dois empregados.
+
+§ 1º O MEP enquadrado nos termos do caput deste artigo recolherá, na forma regulamentada pelo Comitê Gestor, 5% (cinco por cento) sobre a receita bruta, sendo:
+
+I – 20% do valor recolhido a título da contribuição prevista no inciso IV do §3º do art. 18-A ( Contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade de contribuinte individual);
+
+II – 20% do valor recolhido a título do imposto referido no inciso VII do caput do art. 13 (Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS) desta Lei Complementar; e
+
+III – 60% do valor recolhido a título do imposto referido no inciso VIII do caput do art. 13 (Imposto sobre Serviços de Qualquer Natureza - ISS) desta Lei Complementar.
+
+§ 2º Sem prejuízo do disposto nos §§ 1º a 3º do art. 13, o MEP enquadrado nos termos do caput deste artigo terá isenção dos tributos referidos nos incisos I a VI do caput do art. 13,ressalvado o disposto no art. 18-C.
+
+§ 3º Aplica-se ao MEP as demais disposições desta Lei concernentes ao Microempreendedor Individual.” (NR)
+
+[Voltar à leitura](#tramitação-1)
+
+### PLP 30/2021
+
+Art. 1º O art. 18-A da Lei Complementar nº 123, de 14 de dezembro de 2006, passa a vigorar acrescido do seguinte § 4º-C:
+
+“Art. 18-A. ...........................................................................
+
+§ 4º-C. Observadas as demais condições estabelecidas nesta Lei, é permitido aos que exercem a atividade de jornalismo optar pela sistemática de recolhimento de que trata este artigo.
+
+[Voltar à leitura](#tramitação-1)
+
+### Comissão de Finanças e Tributação
+
+-   Titulares: Adail Filho (REPUBLICANOS/AM), Cabo Gilberto Silva (PL/PB), Cobalchini (MDB/SC), Fernando Monteiro (PP/PE), Florentino Neto (PT/PI), Fábio Teruel (MDB/SP), Hugo Motta (REPUBLICANOS/PB), Luiz Carlos Hauly (PODE/PR), Marcelo Queiroz (PP/RJ), Marcio Alvino (PL/SP), Mauro Benevides Filho (PDT/CE), Merlong Solano (PT/PI), Murilo Galdino (REPUBLICANOS/PB), Mário Negromonte Jr. (PP/BA), Newton Cardoso Jr (MDB/MG), Pauderney Avelino (UNIÃO/AM), Paulo Guedes (PT/MG), Pedro Paulo (PSD/RJ), Reinhold Stephanes (PSD/PR), Sanderson (PL/RS), Sidney Leite (PSD/AM), Vermelho (PL/PR), Wellington Roberto (PL/PB), Átila Lins (PSD/AM).
+
+-   Suplentes: Abilio Brunini (PL/MT), Aguinaldo Ribeiro (PP/PB), Aj Albuquerque (PP/CE), Alceu Moreira (MDB/RS), Aureo Ribeiro (SOLIDARIEDADE/RJ), Aécio Neves (PSDB/MG), Bohn Gass (PT/RS), Camila Jara (PT/MS), Capitão, Alberto Neto (PL/AM), Capitão Augusto (PL/SP), Coronel Meira (PL/PE), Dagoberto Nogueira (PSDB/MS), Dayany, Bittencourt (UNIÃO/CE), Duarte Jr. (PSB/MA), Fausto Pinato (PP/SP), Flávio Nogueira (PT/PI), Gilberto Abramo (REPUBLICANOS/MG), Gilberto Nascimento (PSD/SP), Gilson Daniel (PODE/ES), Gleisi Hoffmann (PT/PR), Henderson Pinto (MDB/PA), Hercílio Coelho Diniz (MDB/MG), Jadyel Alencar (REPUBLICANOS/PI), Josenildo (PDT/AP), José Medeiros (PL/MT), João Carlos Bacelar (PL/BA), João Maia (PP/RN), Juliana Cardoso (PT/SP), Kim Kataguiri (UNIÃO/SP), Laura Carneiro (PSD/RJ), Lindbergh Farias (PT/RJ), Luiz Gastão (PSD/CE), Luiz Philippe de Orleans, Bragança (PL/SP), Marangoni (UNIÃO/SP), Marcelo Crivella (REPUBLICANOS/RJ), Marcos Tavares (PDT/RJ), Otto Alencar Filho (PSD/BA), Pastor Eurico (PL/PE), Pedro Westphalen (PP/RS), Sargento Portugal (PODE/RJ), Sergio Souza (MDB/PR), Socorro Neri (PP/AC), Vinicius Carvalho (REPUBLICANOS/SP), Zé Trovão (PL/SC), Zé Vitor (PL/MG)
+
+[Voltar à leitura](#próximos-passos-1)
+
+### Comissão de Constituição, Justiça e de Cidadania
+
+-   Titulares: Acácio Favacho (MDB/AP), Afonso Motta (PDT/RS), Alex Manente (CIDADANIA/SP), Alfredo Gaspar (UNIÃO/AL), Allan Garcês (PP/MA), Arthur Oliveira Maia (UNIÃO/BA), Bacelar (PV/BA), Bia Kicis (PL/DF), Capitão Alberto Neto (PL/AM), Caroline de Toni (PL/SC), Castro Neto (PSD/PI), Cezinha de Madureira (PSD/SP), Chris Tonietto (PL/RJ), Coronel Assis (UNIÃO/MT), Coronel Fernanda (PL/MT), Covatti Filho (PP/RS), Danilo Forte (UNIÃO/CE), Defensor Stélio Dener (REPUBLICANOS/RR), Delegada Katarina (PSD/SE), Delegado Fabio Costa (PP/AL), Delegado Éder Mauro (PL/PA), Diego Coronel (PSD/BA), Dr. Jaziel (PL/CE), Dr. Victor Linhalis (PODE/ES), Duarte Jr. (PSB/MA), Eduardo Bismarck (PDT/CE), Elcione Barbalho (MDB/PA), Eliza Virgínia (PP/PB), Felipe Carreras (PSB/PE), Fernanda Pessoa (UNIÃO/CE), Fernando Rodolfo (PL/PE), Flávio Nogueira (PT/PI), Helder Salomão (PT/ES), José Guimarães (PT/CE), João Leão (PP/BA), Juarez Costa (MDB/MT), Julia Zanatta (PL/SC), Lafayette de Andrada (REPUBLICANOS/MG), Luiz Couto (PT/PB), Luiz Philippe de Orleans e Bragança (PL/SP), Marcelo Crivella (REPUBLICANOS/RJ), Marcos Pollon (PL/MS), Marcos Soares (UNIÃO/RJ), Maria Arraes (SOLIDARIEDADE/PE), Marreca Filho (PRD/MA), Mauricio Marcon (PODE/RS), Mendonça Filho (UNIÃO/PE), Nicoletti (UNIÃO/RR), Olival Marques (MDB/PA), Orlando Silva (PCdoB/SP), Patrus Ananias (PT/MG), Paulo Abi-ackel (PSDB/MG), Paulo Magalhães (PSD/BA), Pedro Aihara (PRD/MG), Pedro Lupion (PP/PR), Pr. Marco Feliciano (PL/SP), Renilce Nicodemos (MDB/PA), Renildo Calheiros (PCdoB/PE), Ricardo Ayres (REPUBLICANOS/TO), Roberto Duarte (REPUBLICANOS/AC), Rubens Pereira Júnior (PT/MA), Soraya Santos (PL/RJ), Waldemar Oliveira (AVANTE/PE), Welter (PT/PR), Chico Alencar (PSOL/RJ), Célia Xakriabá (PSOL/MG).
+
+-   Suplentes: Aguinaldo Ribeiro (PP/PB), Alencar Santana (PT/SP), Aluisio Mendes (REPUBLICANOS/MA), Ana Paula Lima (PT/SC), Aureo Ribeiro (SOLIDARIEDADE/RJ), Baleia Rossi (MDB/SP), Benes Leocádio (UNIÃO/RN), Bruno Farias (AVANTE/MG), Cabo Gilberto Silva (PL/PB), Carlos Veras (PT/PE), Cobalchini (MDB/SC), Coronel Meira (PL/PE), Dandara (PT/MG), Dani Cunha (UNIÃO/RJ), Daniel José (PODE/SP), Darci de Matos (PSD/SC), Delegado Marcelo Freitas (UNIÃO/MG), Delegado Paulo Bilynskyj (PL/SP), Delegado Ramagem (PL/RJ), Delegado da Cunha (PP/SP), Diego Garcia (REPUBLICANOS/PR), Domingos Sávio (PL/MG), Emanuel Pinheiro Neto (MDB/MT), Erika Kokay (PT/DF), Evair Vieira de Melo (PP/ES), Felipe Francischini (UNIÃO/PR), Filipe Barros (PL/PR), Gilson Daniel (PODE/ES), Gisela Simona (UNIÃO/MT), Gleisi Hoffmann (PT/PR), Hugo Motta (REPUBLICANOS/PB), José Medeiros (PL/MT), Kiko Celeguim (PT/SP), Kim Kataguiri (UNIÃO/SP), Laura Carneiro (PSD/RJ), Lindbergh Farias (PT/RJ), Lucas Redecker (PSDB/RS), Lucyana Genésio (PDT/MA), Luiz Gastão (PSD/CE), Lêda Borges (PSDB/GO), Marcelo Moraes (PL/RS), Mauro Benevides Filho (PDT/CE), Miguel Ângelo (PT/MG), Pauderney Avelino (UNIÃO/AM), Paulo Azi (UNIÃO/BA), Pedro Campos (PSB/PE), Pedro Jr (PL/TO), Rafael Brito (MDB/AL), Rafael Simoes (UNIÃO/MG), Reginaldo Lopes (PT/MG), Rodolfo Nogueira (PL/MS), Rodrigo Valadares (UNIÃO/SE), Ronaldo Nogueira (REPUBLICANOS/RS), Sergio Souza (MDB/PR), Sidney Leite (PSD/AM), Tabata Amaral (PSB/SP), Tião Medeiros (PP/PR), Toninho Wandscheer (PP/PR), Wilson Santiago (REPUBLICANOS/PB), Zucco (PL/RS), Zé Haroldo Cathedral (PSD/RR), Átila Lira (PP/PI), Sâmia Bomfim (PSOL/SP), Túlio Gadêlha (REDE/PE), Gilson Marques (NOVO/SC), Marcel Van Hattem (NOVO/RS).
+
+[Voltar à leitura](#próximos-passos-1)
